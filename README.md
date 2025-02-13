@@ -75,7 +75,7 @@ The solution is designed to be **easily extensible**:
 - **C#** (WPF Application)
 - **.NET Core**
 - **JSON Serialization** (System.Text.Json / Newtonsoft.Json)
-- **MVVM Pattern** (Optional, if implemented)
+- **MVVM Pattern** 
 
 ## Author
 - **[Yekateryna Mashynson]**
